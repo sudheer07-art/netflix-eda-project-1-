@@ -58,7 +58,7 @@ in titles added per year in the mid-to-late 2010s - shows how fast Netflix's lib
 ## Links
 
 - **Colab notebook (view access):** (https://colab.research.google.com/drive/1F349Tc26C6oheoSoCJAUm0rYkrhAac2L?usp=sharing)
-- **GitHub repo:** 
+- **GitHub repo:** https://github.com/sudheer07-art/netflix-eda-project-1-.git
 
 ---
 Made as part of the Pluto Academy AI & ML Internship 🚀
